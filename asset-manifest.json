@@ -1,13 +1,13 @@
 {
-  "main.css": "/me/static/css/main.2e296d69.chunk.css",
-  "main.js": "/me/static/js/main.45dfaba6.chunk.js",
-  "main.js.map": "/me/static/js/main.45dfaba6.chunk.js.map",
-  "runtime~main.js": "/me/static/js/runtime~main.1caf0789.js",
-  "runtime~main.js.map": "/me/static/js/runtime~main.1caf0789.js.map",
-  "static/js/2.5ec21d73.chunk.js": "/me/static/js/2.5ec21d73.chunk.js",
-  "static/js/2.5ec21d73.chunk.js.map": "/me/static/js/2.5ec21d73.chunk.js.map",
-  "index.html": "/me/index.html",
-  "precache-manifest.bc95b1b7e94ed25d3cbd65f8e48a71da.js": "/me/precache-manifest.bc95b1b7e94ed25d3cbd65f8e48a71da.js",
-  "service-worker.js": "/me/service-worker.js",
-  "static/css/main.2e296d69.chunk.css.map": "/me/static/css/main.2e296d69.chunk.css.map"
+  "main.css": "/yashaswinivadapally/static/css/main.2e296d69.chunk.css",
+  "main.js": "/yashaswinivadapally/static/js/main.d9b335e2.chunk.js",
+  "main.js.map": "/yashaswinivadapally/static/js/main.d9b335e2.chunk.js.map",
+  "runtime~main.js": "/yashaswinivadapally/static/js/runtime~main.e90ebdcf.js",
+  "runtime~main.js.map": "/yashaswinivadapally/static/js/runtime~main.e90ebdcf.js.map",
+  "static/js/2.5ec21d73.chunk.js": "/yashaswinivadapally/static/js/2.5ec21d73.chunk.js",
+  "static/js/2.5ec21d73.chunk.js.map": "/yashaswinivadapally/static/js/2.5ec21d73.chunk.js.map",
+  "index.html": "/yashaswinivadapally/index.html",
+  "precache-manifest.274ab45168d3b6f21d480bf6283956f2.js": "/yashaswinivadapally/precache-manifest.274ab45168d3b6f21d480bf6283956f2.js",
+  "service-worker.js": "/yashaswinivadapally/service-worker.js",
+  "static/css/main.2e296d69.chunk.css.map": "/yashaswinivadapally/static/css/main.2e296d69.chunk.css.map"
 }
