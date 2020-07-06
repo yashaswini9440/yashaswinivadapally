@@ -13,8 +13,9 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer grad student from University of Cincinnati.I love exploring new technologies.Proficient full stack developer with Object Oriented Programming Java skills and Web development skills in ReactJS. Skilled in Data Structures and Algorithms and spring boot.
-</p>
+                    <p>Graduate student from the University of Cincinnati with Computer SCience as a major.I love exploring new technologies.I am a Proficient full stack developer with Object Oriented Programming Java skills and Web development skills in ReactJS and  also backend in spring boot and NodeJS.
+                     Also Skilled in using various AWS components which include AWS lambads for serverless architectures. 
+                    </p>
                     </div>
                 </div>
                 </div>
@@ -54,17 +55,6 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-3 text-center animate-box">
-                <div className="services color-3">
-                <span className="icon">
-                    <i className="icon-phone3" />
-                </span>
-                <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-3 text-center animate-box">
                 <div className="services color-5">
                 <span className="icon">
                     <i className="icon-data" />
@@ -76,41 +66,43 @@ export default class About extends Component {
                 </div>
                 </div>
             </div>
-            {/*
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-2">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-4">
-                <span className="icon">
-                    <i className="icon-layers2" />
-                </span>
-                <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-6">
+            <div className="col-md-3 text-center animate-box">
+                <div className="services color-3">
                 <span className="icon">
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Digital Marketing</h3>
-                    <p>I use Instagram eight hours a day :) </p>
+                    <h3>AWS components</h3>
+                    <p>I have worked on using various AWS components to build faoul tolerent applications.The componets i am aware o include
+                        AWS lambads,AWS S3,AWS EC2,AWS CloudFormations and AWS DYnamoDB and also various Elastic load balancers
+                    </p>
                 </div>
                 </div>
             </div>
-            */}
+            <div className="col-md-3 text-center animate-box">
+                <div className="services color-3">
+                <span className="icon">
+                    <i className="icon-phone3" />
+                </span>
+                <div className="desc">
+                    <h3>Type script</h3>
+                    <p>
+                        Experienced with building Light weight serverless application in typescript.
+                    </p>
+                </div>
+                </div>
+            </div>
+            <div className="col-md-3 text-center animate-box">
+                <div className="services color-3">
+                <span className="icon">
+                    <i className="icon-phone3" />
+                </span>
+                <div className="desc">
+                    <h3>Data Structures & Algorithms</h3>
+                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                </div>
+                </div>
+            </div>
             </div>
         </div>
         </section>

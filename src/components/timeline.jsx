@@ -22,6 +22,17 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
+                        <h2>Genesys Telecommunications<span>June 2020-Aug 2020</span></h2>
+                        <p>Worked as a Intern at Genesys Telecommunications building various social media integrations to the Genesys Pure cloud application.Scaled up the MockServer to run on multiple instances by backing the data on dynamo DB.</p>
+                      </div>
+                    </div>
+                </article>
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-4">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
                         <h2>University of Cincinnati<span>2019-2020</span></h2>
                         <p>I have taken courses like Advanced algorithms, Database Theory, Cloud Computing, Large Scale Software systems over the year and have better understanding of these subjects.</p>
                       </div>
