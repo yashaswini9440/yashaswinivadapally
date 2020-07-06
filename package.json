@@ -2,7 +2,7 @@
   "name": "yashaswinivadapally",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yashaswini9440.github.io/yashaswinivadapally/",
+  "homepage": "http://yashaswini9440.github.io/yashaswinivadapally/",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.8.3",
